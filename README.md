@@ -5,4 +5,4 @@
 - 🌍  Based in Düsseldorf, Germany 🇩🇪
 - 📫  You can reach me by [email](mailto:hicamillacardoso@gmail.com)
 - 😄  My pronouns are She/Her
-- 🌱 I’m currently learning improving my skills in React.js, CSS and API. Start learning Phyton.
+- 🌱 I’m currently learning to improve my skills in React.js, CSS, and API. Start learning Phyton.
