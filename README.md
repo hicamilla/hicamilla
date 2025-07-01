@@ -5,4 +5,4 @@
 - 🌍  Based in Düsseldorf, Germany 🇩🇪
 - 📫  You can reach me by [email](mailto:hicamillacardoso@gmail.com)
 - 😄  My pronouns are She/Her
-- 🌱 I’m currently learning Python while enhancing my skills by building my portfolio and a podcast website.
+- 🌱 I’m currently learning Python
