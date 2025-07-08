@@ -1,16 +1,7 @@
-<h1 align="center">Hi there, I'm Camilla! 👋</h1>
-<p align="center">🌱 Junior Frontend Developer • 📍 Based in Germany • 💻 Learning & Building Every Day</p>
-
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Camilla</h1>
 ---
-
-### 👩‍💻 About Me
-
-```js
-const camilla = {
-  pronouns: "She/Her",
-  location: "Düsseldorf, Germany 🇩🇪",
-  code: ["HTML", "CSS", "JavaScript"],
-  learning: ["Python", "React", "GitHub Actions"],
-  interests: ["Web Accessibility", "UX/UI", "Creative Coding", "Documentaries"],
-  quote: "Code is like coffee — better when shared ☕️"
-};
+- 👩‍💻  Junior Frontend Developer
+- 🌍  Based in Düsseldorf, Germany 🇩🇪
+- 📫  You can reach me by [email](mailto:hicamillacardoso@gmail.com)
+- 😄  My pronouns are She/Her
+- 🌱 I’m currently learning Python
